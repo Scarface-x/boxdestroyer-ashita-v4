@@ -14,6 +14,8 @@ The suggestions automatically update as new hints are revealed.
 ### Usage
 Download the latest release https://github.com/Scarface-x/boxdestroyer-ashita-v4/releases/tag/v2.0.0
 
+Extract 'boxdestroyer' to Ashita-v4 > addons.
+
 Use `/addon load boxdestroyer` to enable.
 
 Alternatively, add `/addon load boxdestroyer` to `Default.txt` under Ashita's `scripts` directory.
