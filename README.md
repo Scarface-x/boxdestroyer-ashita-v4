@@ -12,7 +12,7 @@ With the addon loaded, simply click on any brown treasure casket and it will dis
 The suggestions automatically update as new hints are revealed.
 
 ### Usage
-For simplicity rename the folder to 'boxdestroyer' and place into your Ashita > Addons folder.
+Download the latest release https://github.com/Scarface-x/boxdestroyer-ashita-v4/releases/tag/v2.0.0
 
 Use `/addon load boxdestroyer` to enable.
 
