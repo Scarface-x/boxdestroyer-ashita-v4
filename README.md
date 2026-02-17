@@ -12,6 +12,8 @@ With the addon loaded, simply click on any brown treasure casket and it will dis
 The suggestions automatically update as new hints are revealed.
 
 ### Usage
+For simplicity rename the folder to 'boxdestroyer' and place into your Ashita > Addons folder.
+
 Use `/addon load boxdestroyer` to enable.
 
 Alternatively, add `/addon load boxdestroyer` to `Default.txt` under Ashita's `scripts` directory.
